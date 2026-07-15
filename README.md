@@ -1,5 +1,13 @@
 # Automated Employee Onboarding & Offboarding Workflow
 
+## 🎥 Demo Video
+
+**Watch the project demonstration here:**
+
+https://drive.google.com/file/d/1U6M-bY2Xq2ZCCCOcQ4Wv4V9Y3PPq5BS-/view?usp=sharing
+
+---
+
 ## 📌 Project Overview
 
 The **Employee Lifecycle Management System** is a ServiceNow-based workflow automation project designed to simplify employee onboarding and offboarding operations. The solution automates approvals, task assignments, employee status updates, and notifications, helping HR and IT teams manage the complete employee lifecycle with greater efficiency and accuracy.
@@ -24,7 +32,7 @@ The onboarding workflow automates the activities required before a new employee 
 
 ### Workflow
 
-```
+```text
 New Employee Request
         │
         ▼
@@ -60,7 +68,7 @@ The offboarding workflow manages employee exit activities securely and efficient
 
 ### Workflow
 
-```
+```text
 Employee Exit Request
         │
         ▼
@@ -92,7 +100,7 @@ Notification Sent
 
 # 🏗️ System Architecture
 
-```
+```text
             Employee Lifecycle Management
 
                       │
@@ -210,7 +218,7 @@ Stores employee exit information.
 
 ## Onboarding
 
-```
+```text
 Employee Registration
         │
         ▼
@@ -230,7 +238,7 @@ Employee Onboarded
 
 ## Offboarding
 
-```
+```text
 Employee Exit Request
         │
         ▼
